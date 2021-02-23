@@ -1,2 +1,2 @@
-print("Leshka is piska")
+print("Leshka isn't piska")
 a = 0
