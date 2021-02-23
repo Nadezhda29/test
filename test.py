@@ -1,0 +1,1 @@
+print("Leshka is piska")
